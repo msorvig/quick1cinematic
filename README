@@ -1,0 +1,33 @@
+
+INTRO
+==========
+
+This UX demo application presents some graphical features of Qt5. 
+The name 'Cinematic Experience' reflects how it's possible to build user 
+interfaces with increased dynamics.
+
+
+RUNNING
+==========
+
+This is a Qt for iOS specific port where the original Qt Quick 2
+demo has been ported to Qt Quick 1.
+
+To run the demo, generate an Xcode project:
+/path/to/qmake 
+
+Open the xcode project and buildd/deploy to your device.
+open quick1cinematic.xcodeproj
+
+LICENSE
+==========
+
+Source codes are licensed under a Creative Commons Attribution 3.0 Unported 
+License. http://creativecommons.org/licenses/by/3.0/
+
+No attribution required, but feel free to mention us or 
+contact info@quitcoding.com
+
+Qt, and the Qt logo are trademarks of Digia Corporation
+Movie reviews copyright © IMDb.com
+DVD cover icons from http://www.iconarchive.com
